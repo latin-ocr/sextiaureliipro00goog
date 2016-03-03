@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sextiaureliipro00goog_0047.png"; bbox 0 0 2940 4974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 335 1516 928 1631">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 335 1516 928 1631">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 1516 928 1631; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 335 1516 565 1630; x_wconf 88' lang='lat' dir='ltr'><strong>SEXTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 596 1519 928 1631; x_wconf 85' lang='lat' dir='ltr'><strong>AURELII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 25 1817 1293 2035">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 25 1817 1293 2098">
+     <span class='ocr_line' id='line_1_2' title="bbox 25 1817 1293 2035; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 25 1865 28 1998; x_wconf 60' lang='lat' dir='ltr'>z</span> <span class='ocrx_word' id='word_1_4' title='bbox 221 1817 1046 2035; x_wconf 83' lang='lat' dir='ltr'>PROPERTII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1287 1835 1293 1845; x_wconf 79' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1474 4974">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1474 4974">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1474 4974; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1474 4974; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
